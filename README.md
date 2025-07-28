@@ -23,7 +23,8 @@ A WHMCS payment gateway module for accepting cryptocurrency payments via **[Cryp
 3. Go to your WHMCS Admin Panel → Setup → Payments → Payment Gateways
 4. Activate "CryptoBot"
 5. Enter your CryptoBot API token
-6. Save changes
+6. Set WEBHOOK url - https://YOUR_WHMCS/modules/gateways/callback/cryptobot.php
+7. Save changes
 
 ## Configuration
 
